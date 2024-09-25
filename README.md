@@ -1,1 +1,1 @@
-# .github
+# Ditto Assistant
