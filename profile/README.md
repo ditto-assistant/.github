@@ -1,5 +1,7 @@
-## Ditto AI 👋🤖
+# Ditto AI 👋🤖
+*Your friendly AI assistant*
 
+Brought to you by the [Omni Aura](https://github.com/omniaura) team.
 <!--
 
 **Here are some ideas to get you started:**
