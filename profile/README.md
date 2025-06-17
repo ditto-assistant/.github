@@ -1,5 +1,5 @@
-# Ditto AI 👋🤖
-*Your friendly AI assistant*
+# 👋🤖 [Ditto AI](https://heyditto.ai/)
+*Your friendly AI assistant who truly remembers you.*
 
 Brought to you by the [Omni Aura](https://github.com/omniaura) team.
 <!--
