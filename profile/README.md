@@ -1,4 +1,4 @@
-# 👋🤖 [Hey Ditto](https://heyditto.ai/)
+# 👋🤖 [Ditto](https://heyditto.ai/)
 *Your helpful AI who truly remembers you.*
 
 Brought to you by the [Omni Aura](https://github.com/omniaura) team.
